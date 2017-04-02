@@ -1,5 +1,6 @@
 # Daily Challenge for March 31st, 2017
-### Link to challenge: (here)[https://www.reddit.com/r/dailyprogrammer/comments/62ktmx/20170331_challenge_308_hard_slider_game_puzzle/]
+### Link to challenge:
+[here](https://www.reddit.com/r/dailyprogrammer/comments/62ktmx/20170331_challenge_308_hard_slider_game_puzzle/)
 
 **DISCRIPTION**
 Slider puzzles are nearly impossible for me to solve by hand, so lets make a program to do it for us. Slider puzzles are N by N boards filled with the numbers N through N-1 and you solve them by getting all the numbers in order. The numbers can swap places with the empty spot (I use 0 to represent such place) up, down, left, and right, with no loop arounds. For example, the array input {1,2,3,4,5,6,7,0,8} would make the following board:
